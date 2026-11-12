@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Stage & Alternance Hunter - Filtre Bac+2/Bac+3",
+  "version": "1.1.2",
+  "description": "Aspire les fiches de poste de stages et alternances (36 mois), applique un tamis Regex et exporte un Markdown optimisé.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Analyser les offres"
+  }
+}
